@@ -1,0 +1,28 @@
+.image {
+	background-color: white;
+	padding: 5%;
+}
+
+.navigation {
+	background-color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	background-color: black;
+}
+
+.navigation :link {
+	color: black;
+}
+
+.navigation :visited {
+	color: black;
+}
+
+.navigation :active {
+	color: black;
+}
